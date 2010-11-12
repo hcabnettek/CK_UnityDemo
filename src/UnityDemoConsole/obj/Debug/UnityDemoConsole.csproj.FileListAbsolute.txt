@@ -1,0 +1,14 @@
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityDemo.exe.config
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\unity.config
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityDemo.exe
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityDemo.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityClients.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityDemo.Core.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityClients.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\bin\Debug\UnityDemo.Core.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\obj\Debug\UnityDemo.exe
+C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemoConsole\obj\Debug\UnityDemo.pdb

@@ -1,0 +1,11 @@
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\unity.config
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\Core.WCF.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\Core.WCF.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\UnityDemo.Core.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\bin\Debug\UnityDemo.Core.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\obj\Debug\Core.WCF.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\Core.WCF\Core.WCF\obj\Debug\Core.WCF.pdb

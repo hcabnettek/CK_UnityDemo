@@ -1,0 +1,5 @@
+C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\Bin\Debug\UnitySilverlightLib.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\Bin\Debug\UnitySilverlightLib.pdb
+C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\obj\Debug\UnitySilverlightLib.dll
+C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\obj\Debug\UnitySilverlightLib.pdb

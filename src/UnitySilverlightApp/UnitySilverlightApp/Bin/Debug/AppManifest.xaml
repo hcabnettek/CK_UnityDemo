@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="UnitySilverlightApp" EntryPointType="UnitySilverlightApp.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="UnitySilverlightApp" Source="UnitySilverlightApp.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+    <AssemblyPart x:Name="UnitySilverlightLib" Source="UnitySilverlightLib.dll" />
+  </Deployment.Parts>
+</Deployment>
