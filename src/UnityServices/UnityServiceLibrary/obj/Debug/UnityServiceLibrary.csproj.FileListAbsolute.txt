@@ -9,3 +9,14 @@ C:\Users\hcabnettek\Desktop\unitygit\src\UnityServices\UnityServiceLibrary\bin\D
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityServices\UnityServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityServices\UnityServiceLibrary\obj\Debug\UnityServiceLibrary.dll
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityServices\UnityServiceLibrary\obj\Debug\UnityServiceLibrary.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityServiceLibrary.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityServiceLibrary.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityBO.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityDAL.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\AutoMapper.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityBO.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\bin\Debug\UnityDAL.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\obj\Debug\UnityServiceLibrary.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityServices\UnityServiceLibrary\obj\Debug\UnityServiceLibrary.pdb

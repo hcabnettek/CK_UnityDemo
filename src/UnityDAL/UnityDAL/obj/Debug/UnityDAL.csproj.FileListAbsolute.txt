@@ -3,3 +3,8 @@ C:\Users\hcabnettek\Desktop\unitygit\src\UnityDAL\UnityDAL\bin\Debug\UnityDAL.pd
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityDAL\UnityDAL\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityDAL\UnityDAL\obj\Debug\UnityDAL.dll
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityDAL\UnityDAL\obj\Debug\UnityDAL.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDAL\UnityDAL\bin\Debug\UnityDAL.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDAL\UnityDAL\bin\Debug\UnityDAL.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDAL\UnityDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDAL\UnityDAL\obj\Debug\UnityDAL.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDAL\UnityDAL\obj\Debug\UnityDAL.pdb

@@ -1,8 +1,8 @@
-﻿<xapCache source="C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightApp\UnitySilverlightApp\Bin\Debug\UnitySilverlightApp.xap" lastWriteTime="11/8/2010 5:09:21 PM">
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightApp\UnitySilverlightApp\obj\Debug\UnitySilverlightApp.dll" archivePath="UnitySilverlightApp.dll" lastWriteTime="11/8/2010 5:09:21 PM" />
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\lib\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="11/4/2010 2:21:38 AM" />
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\lib\System.ComponentModel.Composition.Initialization.dll" archivePath="System.ComponentModel.Composition.Initialization.dll" lastWriteTime="11/4/2010 2:21:38 AM" />
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightLib\UnitySilverlightLib\Bin\Debug\UnitySilverlightLib.dll" archivePath="UnitySilverlightLib.dll" lastWriteTime="11/8/2010 5:09:20 PM" />
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightApp\UnitySilverlightApp\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="11/6/2010 6:06:10 AM" />
-  <file source="C:\Users\hcabnettek\Desktop\unitygit\src\UnitySilverlightApp\UnitySilverlightApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/8/2010 5:09:21 PM" />
+﻿<xapCache source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnitySilverlightApp\UnitySilverlightApp\Bin\Debug\UnitySilverlightApp.xap" lastWriteTime="11/11/2010 7:08:17 PM">
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnitySilverlightApp\UnitySilverlightApp\obj\Debug\UnitySilverlightApp.dll" archivePath="UnitySilverlightApp.dll" lastWriteTime="11/11/2010 7:08:15 PM" />
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\lib\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="11/11/2010 7:07:33 PM" />
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\lib\System.ComponentModel.Composition.Initialization.dll" archivePath="System.ComponentModel.Composition.Initialization.dll" lastWriteTime="11/11/2010 7:07:33 PM" />
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnitySilverlightLib\UnitySilverlightLib\Bin\Debug\UnitySilverlightLib.dll" archivePath="UnitySilverlightLib.dll" lastWriteTime="11/11/2010 7:07:33 PM" />
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnitySilverlightApp\UnitySilverlightApp\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="11/11/2010 7:07:33 PM" />
+  <file source="C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnitySilverlightApp\UnitySilverlightApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/11/2010 7:08:15 PM" />
 </xapCache>

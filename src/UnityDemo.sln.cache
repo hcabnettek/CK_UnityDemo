@@ -180,11 +180,11 @@
     <AspNetConfiguration>$(Configuration)</AspNetConfiguration>
   </PropertyGroup>
   <PropertyGroup>
-    <SolutionDir>C:\Users\hcabnettek\Desktop\unitygit\src\</SolutionDir>
+    <SolutionDir>C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\</SolutionDir>
     <SolutionExt>.sln</SolutionExt>
     <SolutionFileName>UnityDemo.sln</SolutionFileName>
     <SolutionName>UnityDemo</SolutionName>
-    <SolutionPath>C:\Users\hcabnettek\Desktop\unitygit\src\UnityDemo.sln</SolutionPath>
+    <SolutionPath>C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityDemo.sln</SolutionPath>
   </PropertyGroup>
   <PropertyGroup>
     <TargetFrameworkVersion Condition="'$(TargetFrameworkVersion)' == '' and '$(MSBuildToolsVersion)' == '2.0'">v2.0</TargetFrameworkVersion>

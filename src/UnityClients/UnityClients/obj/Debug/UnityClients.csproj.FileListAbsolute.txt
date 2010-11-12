@@ -3,3 +3,8 @@ C:\Users\hcabnettek\Desktop\unitygit\src\UnityClients\UnityClients\bin\Debug\Uni
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityClients\UnityClients\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityClients\UnityClients\obj\Debug\UnityClients.dll
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityClients\UnityClients\obj\Debug\UnityClients.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityClients\UnityClients\bin\Debug\UnityClients.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityClients\UnityClients\bin\Debug\UnityClients.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityClients\UnityClients\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityClients\UnityClients\obj\Debug\UnityClients.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityClients\UnityClients\obj\Debug\UnityClients.pdb

@@ -6,3 +6,11 @@ C:\Users\hcabnettek\Desktop\unitygit\src\UnityBO\UnityBO\bin\Debug\UnityDAL.pdb
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityBO\UnityBO\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityBO\UnityBO\obj\Debug\UnityBO.dll
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityBO\UnityBO\obj\Debug\UnityBO.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\bin\Debug\UnityBO.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\bin\Debug\UnityBO.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\bin\Debug\AutoMapper.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\bin\Debug\UnityDAL.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\bin\Debug\UnityDAL.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\obj\Debug\UnityBO.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityBO\UnityBO\obj\Debug\UnityBO.pdb

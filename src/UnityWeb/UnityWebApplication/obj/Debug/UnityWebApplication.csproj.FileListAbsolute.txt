@@ -11,3 +11,16 @@ C:\Users\hcabnettek\Desktop\unitygit\src\UnityWeb\UnityWebApplication\bin\UnityD
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityWeb\UnityWebApplication\bin\UnityClients.pdb
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityWeb\UnityWebApplication\obj\Debug\UnityWebApplication.dll
 C:\Users\hcabnettek\Desktop\unitygit\src\UnityWeb\UnityWebApplication\obj\Debug\UnityWebApplication.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\unity.config
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityWebApplication.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityWebApplication.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityClients.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityDemo.Core.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\Microsoft.Practices.Unity.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityDemo.Core.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\bin\UnityClients.pdb
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\obj\Debug\UnityWebApplication.dll
+C:\Users\hcabnettek\Desktop\CKClone\CK_UnityDemo\src\UnityWeb\UnityWebApplication\obj\Debug\UnityWebApplication.pdb
